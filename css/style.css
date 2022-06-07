@@ -96,45 +96,52 @@ header .infos-cabecalho {
     font-size: 0.8em;
     width: 45%;
 }
-.texto a:hover{
+
+.texto a:hover {
     background-color: #bf925a;
     color: #202616;
     opacity: 0.9;
 }
-.titulo{
+
+.titulo {
     background-color: #35400C;
     width: 100%;
     margin-bottom: 5em;
 }
-.titulo h2{
+
+.titulo h2 {
     color: #fff;
     font-size: 1em;
     font-weight: bold;
     text-align: center;
 }
 
-.fale-conosco p{
-    color:#202616;
+.fale-conosco p {
+    color: #202616;
     font-weight: bold;
     font-size: 1em;
     line-height: 2.5em;
     width: 50%;
 }
-form{
+
+form {
     margin: 5em 0;
     width: 50%;
 }
-form label{
+
+form label {
     margin: 1em 0 0 0;
     font-weight: bold;
     color: #202616;
 }
+
 .fale-conosco form input,
 .fale-conosco form select,
-.fale-conosco form textarea{
+.fale-conosco form textarea {
     border: 2px solid #B3B3B3;
 }
-.fale-conosco form button{
+
+.fale-conosco form button {
     background-color: #BF925A;
     color: #202616;
     border: none;
@@ -143,7 +150,8 @@ form label{
     width: 20%;
     margin: 1em;
 }
-.fale-conosco form button:hover{
+
+.fale-conosco form button:hover {
     background-color: #BF925A;
     color: #202616;
     opacity: 0.9;
