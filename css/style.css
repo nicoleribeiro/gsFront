@@ -52,8 +52,9 @@ header .infos-cabecalho {
 
 .resumo div {
     text-align: center;
+    font-size: 0.75em;
     font-weight: bold;
-    max-width: 15%;
+    max-width: 13%;
 }
 
 .resumo div img {
