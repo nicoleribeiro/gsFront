@@ -22,7 +22,29 @@ header .infos-cabecalho {
 .navegacao{
     width: 8%;
 }
-
+.banner{
+    font-weight: bold;
+    text-align: center;
+    color:#fff;
+}
+.banner img{
+    width: 100%;
+}
+.banner h1{
+    position: absolute;
+    top: 30%;
+    font-weight: bold;
+    font-size: 2em;
+    width: 35%;
+    left: 32%;
+}
+.banner p{
+    position: absolute;
+    top: 45%;
+    font-size: 1em;
+    width: 35%;
+    left: 32%;
+}
 footer {
     background-color: #202616;
 }
